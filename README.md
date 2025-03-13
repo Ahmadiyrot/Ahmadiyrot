@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋! My name is Ahmad.</h1>
+<h1 align="center">Hi 👋! My name is Ahmad.</h1>
 
 ###
 
-<p align="left">About me:<br>🔭 I’m currently working on exciting web projects that blend design and functionality.<br>👯 I’m looking to collaborate on open-source and innovative frontend projects.<br>🤝 I’m looking for help with optimizing performance and exploring new web tech.<br>🌱 I’m currently learning Three.js, animations, and advanced frontend frameworks.<br>💬 Ask me about JavaScript, React, and crafting seamless UI/UX experiences.</p>
+<p align="center">About me:<br>🔭 I’m currently working on exciting web projects that blend design and functionality.<br>👯 I’m looking to collaborate on open-source and innovative frontend projects.<br>🤝 I’m looking for help with optimizing performance and exploring new web tech.<br>🌱 I’m currently learning Three.js, animations, and advanced frontend frameworks.<br>💬 Ask me about JavaScript, React, and crafting seamless UI/UX experiences.</p>
 
 ###
 
