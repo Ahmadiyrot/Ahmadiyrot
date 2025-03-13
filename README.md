@@ -19,9 +19,6 @@ Hey there! 👋 I'm Ahmad<br>Frontend developer building sleek, interactive web 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Ahmadiyrot&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Ahmadiyrot&icon=2&color=8)](https://visitcount.itsvg.in)
